@@ -2,5 +2,144 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>PACS TOUR!</title>
     <id>ur:uuid:83d31511-68b7-4cd9-8ed9-523ac13f4787</id>
-    <updated>2019-09-11T10+02:00</updated>
+    <updated>2019-12-29T18:00:00+02:00</updated>
+
+    <!--
+    <entry>
+        <title type="text">PACS TOUR! {CITY}</title>
+        <summary>PACS TOUR! {CITY}, {DATE}</summary>
+        <link href="{CAL}" />
+        <id>tag:pacs-tour,{city}:{date}</id>
+        <published>2019-02-15T19:00:00+02:00</published>
+        <updated>2019-12-29T18:00:00+02:00</updated>
+        <content type="xhtml" xml:lang="fr">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+            </div>
+        </content>
+        <content type="xhtml" xml:lang="es">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+            </div>
+        </content>
+    </entry>
+    -->
+
+    <entry>
+        <title type="text">PACS TOUR! Paris</title>
+        <summary>PACS TOUR! Paris, 2020-02-15</summary>
+        <link href="https://calendar.google.com/calendar/event?eid=MnFxdmJ1dnA4Y2ZpNDEwb28xZ3FiajhpaWogNnRiZTdzazV0bnV2dnAwdjZ2bmU1ZDJtZGNAZw&amp;ctz=Europe/Paris" />
+        <id>tag:pacs-tour,paris:20200215</id>
+        <published>2020-02-15T19:00:00+02:00</published>
+        <updated>2019-12-29T18:00:00+02:00</updated>
+        <content type="xhtml" xml:lang="fr">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <p>
+                    C'est le retour du PACS TOUR!
+                </p>
+                <p>
+                    Merci à tous pour la soirée sur Montpellier, c'était chouette d'avoir fêté ça avec vous.
+                    <br/>On recommence ? D'accord !
+                </p>
+                <p>
+                    Comme on vous aime fort pour la prochaine date on vous donne rendez-vous pour la Saint PACS,
+                    le 15 février, à Paris au Rosa Bonheur du parc des Buttes-Chaumont.
+                    <br/><br/>Besos.
+                </p>
+
+                <separator />
+                <p>
+                    <quote>
+                        <a href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=MnFxdmJ1dnA4Y2ZpNDEwb28xZ3FiajhpaWogNnRiZTdzazV0bnV2dnAwdjZ2bmU1ZDJtZGNAZw&amp;tmsrc=6tbe7sk5tnuvvp0v6vne5d2mdc%40group.calendar.google.com"
+                            >Samedi 15 février 2020, à partir de 19h,</a>
+                        <a href="https://goo.gl/maps/9MioySfZqYfi8JbA8"
+                            >au Rosa Bonheur des Buttes-Chaumont à Paris.</a>
+                    </quote>
+                </p>
+            </div>
+        </content>
+        <content type="html" xml:lang="es">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <p>
+                    El PACS TOUR! vuelve.
+                </p>
+
+                <p>
+                    Gracias a todos por la velada en Montpellier, ha sido un placer celebrar con vosotros.
+                    <br/>¿Lo hacemos de nuevo? Muy bien, hagámoslo de nuevo.
+                </p>
+
+                <p>
+                    Como os queremos mucho, para la próxima cita, nos vemos para el Saint PACS, el 15 de febrero, en París en el Rosa Bonheur del parque Buttes-Chaumont.
+                    <br/>
+                    <br/>Bisous.
+                </p>
+
+                <separator />
+
+                <p>
+                    <quote>
+                        <a href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=MnFxdmJ1dnA4Y2ZpNDEwb28xZ3FiajhpaWogNnRiZTdzazV0bnV2dnAwdjZ2bmU1ZDJtZGNAZw&amp;tmsrc=6tbe7sk5tnuvvp0v6vne5d2mdc%40group.calendar.google.com"
+                            >Sábado 15 de febrero de 2020, a partir de las 19 horas,</a>
+                        <a href="https://goo.gl/maps/9MioySfZqYfi8JbA8"
+                            >en el Rosa Bonheur des Buttes-Chaumont de París.</a>
+                    </quote>
+                </p>
+            </div>
+        </content>
+    </entry>
+
+    <entry>
+        <title type="text">PACS TOUR! Montpellier</title>
+        <summary>PACS TOUR! Montpellier, 2019-09-28</summary>
+        <link href="https://calendar.google.com/calendar/event?eid=MTNybmdjcXZlcjFiOWkyNTBiOHY4OWY2aTggNnRiZTdzazV0bnV2dnAwdjZ2bmU1ZDJtZGNAZw&amp;ctz=Europe/Paris" />
+        <id>tag:pacs-tour,montpellier:20190928</id>
+        <published>2019-09-28T19:00:00+02:00</published>
+        <updated>2019-09-28T19:00:00+02:00</updated>
+        <content type="xhtml" xml:lang="fr">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <p>
+                    Merci beaucoup à toutes et à tous pour vos messages, la prochaine fois on vous rajoute a la signature du PACS.
+                    <br/>Nous déclarons le PACS TOUR ouvert !
+                </p>
+                <p>
+                    Première date : Montpellier.
+                    <br/>On se retrouve à la Raffinerie le Samedi 28 Septembre.
+                    <br/>
+                    <br/>Poutous
+                </p>
+                <separator />
+                <p>
+                    <quote>
+                        <a href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=MTNybmdjcXZlcjFiOWkyNTBiOHY4OWY2aTggNnRiZTdzazV0bnV2dnAwdjZ2bmU1ZDJtZGNAZw&amp;tmsrc=6tbe7sk5tnuvvp0v6vne5d2mdc%40group.calendar.google.com"
+                            >Samedi 28 septembre 2019, à partir de 19h,</a>
+                        <a href="https://goo.gl/maps/Dd4vfkuGu5JW84cU8"
+                            >à La Raffinerie à Montpellier.</a>
+                    </quote>
+                </p>
+            </div>
+        </content>
+        <content type="xhtml" xml:lang="es">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <p>
+                    Gracias a todas y todos por sus mensajes, la proxima vez firmamos tambien con ustedes.
+                    <br/>Empieza el PACS TOUR!
+                </p>
+                <p>
+                    Primera fecha: Montpellier
+                    <br/>Nos encontramos en la Raffinerie el 28 de septembre.
+                    <br/>
+                    <br/>Abrazos!
+                </p>
+                <separator/>
+                <p>
+                    <quote>
+                        <a href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=MTNybmdjcXZlcjFiOWkyNTBiOHY4OWY2aTggNnRiZTdzazV0bnV2dnAwdjZ2bmU1ZDJtZGNAZw&amp;tmsrc=6tbe7sk5tnuvvp0v6vne5d2mdc%40group.calendar.google.com"
+                            >Sábado 28 de septiembre de 2019, a partir de las 19 horas,</a>
+                        <a href="https://goo.gl/maps/Dd4vfkuGu5JW84cU8"
+                            >en la Raffinerie de Montpellier.</a>
+                    </quote>
+                </p>
+            </div>
+        </content>
+    </entry>
+
 </feed>
