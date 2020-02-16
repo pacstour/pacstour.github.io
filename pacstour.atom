@@ -24,6 +24,41 @@
     -->
 
     <entry>
+        <title type="text">PACS TOUR! Montréal</title>
+        <summary>PACS TOUR! Montréal, 2020-04-04</summary>
+        <link href="https://calendar.google.com/calendar/event?eid=MTdpbml0aHRudDdjdDhuZHU4bzlpcG1rY2wgNnRiZTdzazV0bnV2dnAwdjZ2bmU1ZDJtZGNAZw&amp;ctz=America/Toronto" />
+        <id>tag:pacs-tour,montreal:2020-04-04</id>
+        <published>2020-04-04T19:00:00-05:00</published>
+        <updated>2020-02-16T21:00:00+02:00</updated>
+        <content type="xhtml" xml:lang="fr">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <p>
+                    Le PACS TOUR! s'en va prendre le caribou !
+                </p>
+
+                <p>
+                    Prends tes moufles et ton manteau, et viens te réchauffer autour des degrés inscrits sur la bouteille, nom d'une poutine.
+                </p>
+
+                <p>
+                    Le PACS TOUR! s'envole vers Montréal avant d'aller se faire dorer à Miami.
+                    <br/>Alors notre petit sirop d'érable, viens faire du train, c'est tiguidou !
+                </p>
+
+                <separator />
+                <p>
+                    <quote>
+                        <a href="https://calendar.google.com/calendar/event?eid=MTdpbml0aHRudDdjdDhuZHU4bzlpcG1rY2wgNnRiZTdzazV0bnV2dnAwdjZ2bmU1ZDJtZGNAZw&amp;ctz=America/Toronto"
+                            >Samedi 4 Avril, à partir de 19h,</a>
+                        <a href="https://goo.gl/maps/zHsFnq3rhGT2LQMq9"
+                            >à Montréal.</a>
+                    </quote>
+                </p>
+            </div>
+        </content>
+    </entry>
+
+    <entry>
         <title type="text">PACS TOUR! Paris</title>
         <summary>PACS TOUR! Paris, 2020-02-15</summary>
         <link href="https://calendar.google.com/calendar/event?eid=MnFxdmJ1dnA4Y2ZpNDEwb28xZ3FiajhpaWogNnRiZTdzazV0bnV2dnAwdjZ2bmU1ZDJtZGNAZw&amp;ctz=Europe/Paris" />
